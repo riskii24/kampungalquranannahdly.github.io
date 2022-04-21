@@ -38,12 +38,22 @@
         margin:10
       },
 
-      600: {
+      415: {
+        items: 1.2,
+        margin:10
+      },
+
+      768: {
         items: 2.2,
         margin:10
       },
 
       1024: {
+        items: 2.5,
+        margin:10
+      },
+
+      1164: {
         items: 3.2,
         margin:10
       }
@@ -64,12 +74,22 @@
         margin:10
       },
 
-      600: {
+      415: {
+        items: 1.2,
+        margin:10
+      },
+
+      768: {
         items: 2.2,
         margin:10
       },
 
       1024: {
+        items: 2.5,
+        margin:10
+      },
+
+      1164: {
         items: 3.2,
         margin:10
       }
